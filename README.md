@@ -1,2 +1,2 @@
 # first-repository
-my first reposetory-Readme
+my first repository-Readme
